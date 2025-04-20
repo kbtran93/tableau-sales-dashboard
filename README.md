@@ -3,6 +3,7 @@
 ### 1. Introduction
 
 This project aims to develop 2 Tableau dashboards aimed at helping stakeholders—such as sales managers and executives—analyze sales performance and customer data.
+
 The full dashboard can be accessed here: https://shorturl.at/FcCuj
 
 ### 2. Sales Dashboard | Requirements
